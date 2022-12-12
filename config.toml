@@ -1,5 +1,0 @@
-baseURL = 'https://blog.pangwa.com/'
-languageCode = 'zh-CN'
-title = "pangwa's Blog"
-theme = "PaperMod"
-paginate = 10
