@@ -4,6 +4,7 @@ defaultContentLanguage: "zh-cn"
 title: "pangwa's Blog"
 theme: "PaperMod"
 paginate: 10
+hasCJKLanguage: true
 
 minify:
   disableXML: true
