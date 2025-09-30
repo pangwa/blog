@@ -3,7 +3,8 @@ languageCode: "zh-CN"
 defaultContentLanguage: "zh-cn"
 title: "pangwa's Blog"
 theme: "PaperMod"
-paginate: 10
+pagination:
+  pageSize: 10
 hasCJKLanguage: true
 
 minify:
